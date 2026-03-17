@@ -19,3 +19,4 @@ examination
 was
 brutal
 many
+were
